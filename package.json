@@ -1,0 +1,13 @@
+{
+  "name": "next-bot",
+  "version": "1.0.0",
+  "description": "a telegram bot",
+  "main": "index.js",
+  "repository": "git@github.com:guilehm/next-bot.git",
+  "author": "guilherme <guile.hm@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0",
+    "nodemon": "^2.0.7"
+  }
+}
