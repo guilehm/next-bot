@@ -7,7 +7,9 @@
   "author": "guilherme <guile.hm@hotmail.com>",
   "license": "MIT",
   "dependencies": {
+    "mongoose": "^5.11.16",
     "node-telegram-bot-api": "^0.51.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "simple-node-logger": "^18.12.24"
   }
 }
